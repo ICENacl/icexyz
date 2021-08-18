@@ -9,7 +9,7 @@ theme = "hugo-clarity" # 主题 (需要自己下载)
 [[menu.main]]
 identifier = 'note'
 name = 'PaperNote'
-url = '/contents/post/'
+url = '/content/post/'
 weight = -110
 
 [[menu.main]]
