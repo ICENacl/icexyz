@@ -68,7 +68,7 @@ Data: August 16, 2021
 
     > its temporal structure is heavily corrupted in the bottom half (the lower-right part of the input in Figure 9)
 
-    ![Untitled](MoVi-Fi%20Motion-robust%20Vital%20Signs%20Waveform%20Recover%20b23ec69d5a964a53a710d6fc31cfb6aa/Untitled.png)
+    ![Untitled](/images/MoVi-Fi%20Motion-robust%20Vital%20Signs%20Waveform%20Recover%20b23ec69d5a964a53a710d6fc31cfb6aa/Untitled.png)
 
 ---
 
