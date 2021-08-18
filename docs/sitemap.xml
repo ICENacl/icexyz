@@ -1,57 +1,57 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://icenacl.github.io/icexyz/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://icenacl.github.io/icexyz/categories/</loc>
     <lastmod>2021-08-18T23:03:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://icenacl.github.io/icexyz/post/myfirst/</loc>
     <lastmod>2021-08-18T23:03:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/myfirst/</loc>
+    <loc>https://icenacl.github.io/icexyz/post/</loc>
     <lastmod>2021-08-18T23:03:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://icenacl.github.io/icexyz/</loc>
     <lastmod>2021-08-18T23:03:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/tag_name1/</loc>
+    <loc>https://icenacl.github.io/icexyz/tags/tag_name1/</loc>
     <lastmod>2021-08-18T23:03:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/tag_name2/</loc>
+    <loc>https://icenacl.github.io/icexyz/tags/tag_name2/</loc>
     <lastmod>2021-08-18T23:03:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://icenacl.github.io/icexyz/tags/</loc>
     <lastmod>2021-08-18T23:03:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/technology/</loc>
+    <loc>https://icenacl.github.io/icexyz/categories/technology/</loc>
     <lastmod>2021-08-18T23:03:27+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
