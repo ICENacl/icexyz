@@ -1,4 +1,4 @@
-baseURL = "https://icenacl.github.io/icexyz/"
+baseURL = "https://icenacl.github.io/icexyz"
 languageCode = "en"
 defaultContentLanguage = "zh-en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Record learning and emotion"
@@ -109,7 +109,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   customCSS = []
   customJS = []
 
-  uglyURLs = false          # please keep same with uglyurls setting
+  uglyURLs = true          # please keep same with uglyurls setting
 
   # Show language selector for multilingual site.
   showLanguageSelector = true
