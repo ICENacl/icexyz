@@ -68,7 +68,7 @@ Data: August 16, 2021
 
     > its temporal structure is heavily corrupted in the bottom half (the lower-right part of the input in Figure 9)
 
-    ![Untitled](/images/Untitled.png)
+    ![Untitled](images/Untitled.png)
 
 ---
 

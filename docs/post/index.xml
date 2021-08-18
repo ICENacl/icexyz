@@ -9,10 +9,10 @@
     <lastBuildDate>Wed, 18 Aug 2021 23:03:27 +0800</lastBuildDate><atom:link href="https://icenacl.github.io/icexyz/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Myfirst</title>
-      <link>https://icenacl.github.io/icexyz/post/myfirst/</link>
+      <link>https://icenacl.github.io/icexyz/post/myfirst/myfirst/</link>
       <pubDate>Wed, 18 Aug 2021 23:03:27 +0800</pubDate>
       
-      <guid>https://icenacl.github.io/icexyz/post/myfirst/</guid>
+      <guid>https://icenacl.github.io/icexyz/post/myfirst/myfirst/</guid>
       <description>MoVi-Fi: Motion-robust Vital Signs Waveform Recovery via Deep Interpreted RF Sensing Data: August 16, 2021 术语 IR-UWB FMCW RF Channel Impulse Responses (CIRs) a source separation algorithm : independent component analysis (ICA) deep neutral network: multilayer perceptron (MLP) 笔记 Inspiration What inspires our design is that RF reflections caused by vital signs, albeit weak, do not totally disappear but are composited with other motion-incurred reflections in a nonlinear</description>
     </item>
     
