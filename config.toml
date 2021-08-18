@@ -2,65 +2,45 @@ baseURL = "https://icenacl.github.io/icexyz/" # <head> 里面的 baseurl 信息�
 title = "icexyz Blog" # 浏览器的标题
 languageCode = "zh-cn" # 语言
 hasCJKLanguage = true # 开启可以让「字数统计」统计汉字
-theme = "mogege" # 主题 (需要自己下载)
-
-paginate = 6 # 每页的文章数
-enableEmoji = true # 支持 Emoji
-enableRobotsTXT = true # 支持 robots.txt
-googleAnalytics = "" # Google 统计 id
-
-preserveTaxonomyNames = true
-
-[blackfriday]
-  hrefTargetBlank = true
-  nofollowLinks = true
-  noreferrerLinks = true
-
-[Permalinks]
- posts = "/:year/:filename/"
+theme = "hugo-clarity" # 主题 (需要自己下载)
 
 [menu]
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 1
 
-  [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 2
+[[menu.main]]
+identifier = 'note'
+name = 'PaperNote'
+url = '/post/'
+weight = -110
 
-  [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 3
+[[menu.main]]
+name = 'getting started'
+url = '/getting-started/'
+weight = -100
+ 
+[[menu.main]]
+name = "Links"
+identifier = "Links"
+weight = -108
 
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 4
+[[menu.main]]
+parent = "Links"
+name = "LinkedIn"
+url = "https://www.linkedin.com/"
+
+[[menu.main]]
+parent = "Links"
+name = "Twitter"
+url = "https://twitter.com/"
 
 [params]
-    since = 2021
-    author = "icexyz"                          # Author's name
-    avatar = "/me/avatar.png"           # Author's avatar
-    subtitle = "Record Learning and emotion"                  # Subtitle
-    cdn_url = ""           # Base CDN URL
-    home_mode = "post" # post or other
-    enableGitalk = false # gitalk 评论系统
+  author="icexyz"
 
-    google_verification = ""
+  mainSections = ['blog', 'docs']
 
-    description = "" # (Meta) 描述
-    keywords = "" # site keywords
+  mobileNavigation = "left"
 
-    beian = ""
-    baiduAnalytics = ""
+  numberOfTagsShown = 14
 
-    license= '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
+  codeLineNumbers = true
 
-[params.social]
-    Email   = "icexyz787@gmail.com"
-   
-
-
+  figurePositionLabel="Figure"
