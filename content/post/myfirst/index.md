@@ -1,5 +1,5 @@
 ---
-title: "Myfirst" # Title of the blog post.
+title: "MoVi-Fi: Motion-robust Vital Signs Waveform Recovery via Deep Interpreted RF Sensing" # Title of the blog post.
 date: 2021-08-18T23:03:27+08:00 # Date of post creation.
 description: "Article description." # Description used for search engine.
 featured: true # Sets if post is a featured post, making it appear on the sidebar. A featured post won't be listed on the sidebar if it's the current page
@@ -13,15 +13,10 @@ codeMaxLines: 10 # Override global value for how many lines within a code block 
 codeLineNumbers: false # Override global value for showing of line numbers within code block.
 figurePositionShow: true # Override global value for showing the figure label.
 categories:
-  - Technology
+  - PaperNote
 tags:
-  - Tag_name1
-  - Tag_name2
+  - Sensing
 ---
-
-# MoVi-Fi: Motion-robust Vital Signs Waveform Recovery via Deep Interpreted RF Sensing
-
-Data: August 16, 2021
 
 # 术语
 
