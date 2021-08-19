@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Record learning and emotion</title>
+    <link>https://icenacl.github.io/icexyz/</link>
+    <description>Recent content on Record learning and emotion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Aug 2021 23:03:27 +0800</lastBuildDate><atom:link href="https://icenacl.github.io/icexyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MoVi-Fi: Motion-robust Vital Signs Waveform Recovery via Deep Interpreted RF Sensing</title>
+      <link>https://icenacl.github.io/icexyz/post/myfirst/</link>
+      <pubDate>Wed, 18 Aug 2021 23:03:27 +0800</pubDate>
+      
+      <guid>https://icenacl.github.io/icexyz/post/myfirst/</guid>
+      <description>术语 IR-UWB FMCW RF Channel Impulse Responses (CIRs) a source separation algorithm : independent component analysis (ICA) 笔记 Inspiration What inspires our design is that RF reflections caused by vital signs, albeit weak, do not totally disappear but are composited with other motion-incurred reflections in a nonlinear manner. innovative method: deep contrastive learning authors categorize body movements to three types, and use algorithms to exploit the distinct patterns</description>
+    </item>
+    
+  </channel>
+</rss>

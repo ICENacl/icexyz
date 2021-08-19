@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Record learning and emotion</title>
+    <link>https://icenacl.github.io/icexyz/categories/</link>
+    <description>Recent content in Categories on Record learning and emotion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Aug 2021 23:03:27 +0800</lastBuildDate><atom:link href="https://icenacl.github.io/icexyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PaperNote</title>
+      <link>https://icenacl.github.io/icexyz/categories/papernote/</link>
+      <pubDate>Wed, 18 Aug 2021 23:03:27 +0800</pubDate>
+      
+      <guid>https://icenacl.github.io/icexyz/categories/papernote/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
