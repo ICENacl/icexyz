@@ -21,7 +21,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "icexyz"
+  name = "icexyz787@gmail.com"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -182,7 +182,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "icexyz787@gmail.com"
+  #  a-email = "icexyz787@gmail.com"
   #  b-stack-overflow = "http://localhost:1313"
   #  c-twitter = "http://localhost:1313"
   #  d-facebook = "http://localhost:1313"
