@@ -24,7 +24,7 @@ tags:
 2. FMCW
 3. RF Channel Impulse Responses (CIRs)
 4. a source separation algorithm : **independent component analysis (ICA)**
-5. deep neutral  network: **multilayer perceptron (MLP)**
+<!-- 5. deep neutral  network: **multilayer perceptron (MLP)** -->
 
 # 笔记
 
