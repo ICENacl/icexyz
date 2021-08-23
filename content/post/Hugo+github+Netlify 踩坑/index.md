@@ -1,7 +1,7 @@
 ---
 title: "Hugo+github+Netlify 踩坑"
 date: 2021-08-19T15:21:36+08:00
-draft: true
+# draft: true
 ---
 # 图片显示
 
