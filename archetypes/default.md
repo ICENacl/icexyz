@@ -4,7 +4,5 @@ date: {{ .Date }}
 draft: true
 categories:
   - Undefined
-tags:
-  - Undefined
 ---
 

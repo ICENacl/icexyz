@@ -5,8 +5,6 @@ description: "Article description." # Description used for search engine.
 
 categories:
   - PaperNote
-tags:
-  - Sensing
 ---
 
 # 术语
