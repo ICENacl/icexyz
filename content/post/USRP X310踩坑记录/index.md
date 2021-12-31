@@ -1,7 +1,6 @@
 ---
 title: "USRP X310踩坑记录"
 date: 2021-12-30T20:27:21+08:00
-draft: false
 categories:
   - USRP
 ---
