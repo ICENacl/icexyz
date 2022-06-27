@@ -20,7 +20,7 @@ categories:
 ## 同步方法
 
 详见文后链接,最主要是这个图片
-![alt 路径填写](/img/1.png "路径填写")
+![alt 路径填写](./img/1.png "路径填写")
 ## reference
 
 1. https://blog.csdn.net/wwlswj/article/details/113416164
