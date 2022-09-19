@@ -1,4 +1,4 @@
-baseURL = "https://icexyz.xyz"
+baseURL = "https://icexyz.lol"
 languageCode = "en"
 defaultContentLanguage = "zh-en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Record learning and emotion"
