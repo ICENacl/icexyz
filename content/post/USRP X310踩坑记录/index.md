@@ -26,7 +26,7 @@ categories:
 
 ### 网络配置的坑
 
-由于使用以太网进行通信，因此需要对系统的相关参数进行配置。主要需要配置**静态地址**，**UDP广播**,**防火墙**,**MTU**,**FastSendDatagramThreshold**。这里主要说明一下Windows系统下的配置方法，Linux系统下的配置方法在Ettus官网上有，这里附上[链接](https://files.ettus.com/manual/page_usrp_x3x0_config.html#x3x0cfg_hostpc_netcfg_ip)
+由于使用以太网进行通信，因此需要对系统的相关参数进行配置。主要需要配置**静态地址**，**UDP广播**，**防火墙**，**MTU**,**FastSendDatagramThreshold**。这里主要说明一下Windows系统下的配置方法，Linux系统下的配置方法在Ettus官网上有，这里附上[链接](https://files.ettus.com/manual/page_usrp_x3x0_config.html#x3x0cfg_hostpc_netcfg_ip)
 
 #### 1.设置FastSendDatagramThreshold
 
